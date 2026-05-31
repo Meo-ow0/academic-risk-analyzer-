@@ -1,0 +1,7 @@
+student_id,name,attendance_pct,subject,assignment_score,exam_score
+S101,Rahul Sharma,82,Math,85,78
+S102,Ananya Iyer,68,Math,45,35
+S103,Amit Verma,90,Math,92,88
+,Corrupted Row Missing ID,75,Math,50,50
+S104,Rohan Das,60,Math,70,65
+S105,Sneha Reddy,95,Math,88,
